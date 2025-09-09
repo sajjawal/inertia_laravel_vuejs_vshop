@@ -1,4 +1,4 @@
-<script setup>
+<script setup lang="ts">
 import { usePage, router } from '@inertiajs/vue3';
 import UserLayout from './Layout/UserLayout.vue';
 import { computed } from 'vue';

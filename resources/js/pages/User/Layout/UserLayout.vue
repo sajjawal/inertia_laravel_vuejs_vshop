@@ -1,4 +1,4 @@
-<script setup>
+<script setup lang="ts">
 import { onMounted } from 'vue'
 import { initFlowbite } from 'flowbite'
 import Footer from './Footer.vue';

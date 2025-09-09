@@ -1,4 +1,4 @@
-<script setup>
+<script setup lang="ts">
 import UserLayout from './Layout/UserLayout.vue'
 import Products from '../User/Components/Products.vue'
 import SecondaryButtonVue from '@/Components/SecondaryButton.vue'
