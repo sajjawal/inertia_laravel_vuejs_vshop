@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import UserLayout from './Layout/UserLayout.vue'
 import Products from '../User/Components/Products.vue'
-import SecondaryButtonVue from '@/Components/SecondaryButton.vue'
+import SecondaryButtonVue from '@/components/SecondaryButton.vue'
 import { ref,watch} from 'vue'
 import { router } from '@inertiajs/vue3';
 import {
